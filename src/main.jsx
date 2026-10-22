@@ -1,0 +1,9 @@
+import react from "react";
+
+import ReactDOM from 'react-dom/cliente';
+import App from './App.jsx';
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+
+    <App/>
+);
